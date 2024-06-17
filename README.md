@@ -1,5 +1,5 @@
 # PLPBasicGitAssignment
-# PLPBasicGitAssignment
+
 To configure Git and GitHub as a beginner, follow these steps:
 
 1. Install Git: Download and install Git from the official website (https://git-scm.com/downloads) based on your operating system.
