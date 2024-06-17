@@ -14,7 +14,7 @@ To configure Git and GitHub as a beginner, follow these steps:
 
 4. Clone the repository: In your terminal, navigate to the directory where you want to clone the repository. Use the following command to clone the repository to your local machine:
     ```
-    git clone git@github.com:your-username/repository-name.git
+    https://github.com/your-repository-link
     ```
 
 5. Make changes and commit: Make changes to the files in the cloned repository. Use the following commands to stage and commit your changes:
